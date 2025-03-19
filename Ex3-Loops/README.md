@@ -1,8 +1,8 @@
 <div align="center">
 
-# Exercise 3 - Loops and Sequences
+# Exercise 3 - Loops
 
-**Loops and Sequences** is the third exercise I solved as part of Huji's **Introduction to Computer Science** course.  
+**Loops** is the third exercise I solved as part of Huji's **Introduction to Computer Science** course.  
 The main goal of this exercise is to get familiar with **Python 3**, the **Math library**, and to practice loops, sequences, and vector operations.
 
 [View All Exercises](https://github.com/AfekAharoni/Intro2CS)

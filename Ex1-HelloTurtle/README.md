@@ -1,7 +1,13 @@
+<div align="center">
+
 # Exercise 1 - Hello Turtle
 
 **Hello Turtle** is the first exercise I solved as part of Huji's Introduction to Computer Science course.  
 The main goal of this exercise is to get familiar with Python and the Turtle library.
+
+[Home Page](https://github.com/AfekAharoni/Intro2CS)
+
+</div>
 
 ---
 
@@ -60,6 +66,3 @@ Ex1-HelloTurtle/
 ```
 
 ---
-
-## Navigation  
-[Home Page](https://github.com/AfekAharoni/Intro2CS)

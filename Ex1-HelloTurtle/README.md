@@ -52,7 +52,7 @@ python additional_file.py
 
 ## Technologies Used
 - **Turtle library** (`turtle` module)
-- Math library (`math` module)
+- **Math library** (`math` module)
 
 ---
 

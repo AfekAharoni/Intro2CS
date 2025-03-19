@@ -1,6 +1,6 @@
 <div align="center">
 
-# Exercise 2 - Basic Calculations
+# Exercise 2 - Conditions
 
 **Basic Calculations** is the second exercise I solved as part of Huji's **Introduction to Computer Science** course.  
 The main goal of this exercise is to get familiar with **Python 3**, the **Math library**, and to practice basic control structures and functions.

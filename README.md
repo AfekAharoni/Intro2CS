@@ -55,7 +55,7 @@ Throughout the semester, I implemented various algorithms, games, and data proce
 
 ## 🔗 Useful Links
 
-- [Hebrew University CS](https://cs.huji.ac.il/en)
+- [Hebrew University CS](https://www.cs.huji.ac.il/he/)
 - [Final Project - Text Analyzer](https://github.com/AfekAharoni/TextAnalyzer)
 
 ---

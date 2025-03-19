@@ -2,10 +2,10 @@
 
 # Exercise 1 - Hello Turtle
 
-**Hello Turtle** is the first exercise I solved as part of Huji's Introduction to Computer Science course.  
-The main goal of this exercise is to get familiar with Python and the Turtle library.
+**Hello Turtle** is the first exercise I solved as part of Huji's **Introduction to Computer Science** course.  
+The main goal of this exercise is to get familiar with **Python 3** and the **Turtle library**.
 
-[Home Page](https://github.com/AfekAharoni/Intro2CS)
+[View All Exercises](https://github.com/AfekAharoni/Intro2CS)
 
 </div>
 
@@ -14,8 +14,8 @@ The main goal of this exercise is to get familiar with Python and the Turtle lib
 ## Exercise Description
 
 This project includes:
-1. `hello_turtle.py` - A simple program that draws a fleet of ships using the turtle library.
-2. `math_print.py` - A program that demonstrates basic calculations using Python's math library.
+1. `hello_turtle.py` - A simple program that draws a fleet of ships using the **Turtle library**.
+2. `math_print.py` - A program that demonstrates basic calculations using Python's **math** library.
 3. `additional_file.py` - Contains a secret function (you should find out what it prints).
 
 ---
@@ -23,7 +23,7 @@ This project includes:
 ## How to Run the Code
 
 ### 1. `hello_turtle.py`  
-Draws two ships using Python's turtle graphics.
+Draws two ships using Python's **turtle** graphics.
 
 ```
 python hello_turtle.py
@@ -51,7 +51,7 @@ python additional_file.py
 ---
 
 ## Technologies Used
-- Turtle graphics (`turtle` module)
+- **Turtle library** (`turtle` module)
 - Math library (`math` module)
 
 ---

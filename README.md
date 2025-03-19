@@ -10,7 +10,7 @@ at the **Hebrew University of Jerusalem**.
 The course covers fundamental and advanced programming concepts, using **Python 3** as the main language.  
 Throughout the semester, I implemented various algorithms, games, and data processing tools.
 
-[View Course Info](https://cs.huji.ac.il/en)  
+[View Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67101/1/2020)  
 [View All Exercises](#exercises)
 
 </div>

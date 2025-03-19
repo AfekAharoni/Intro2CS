@@ -69,7 +69,7 @@ python temperature.py
 ## File Structure
 
 ```
-Ex2-BasicCalculations/
+Ex2-Conditions/
 ├── calculate_mathematical_expression.py
 ├── largest_and_smallest.py
 ├── quadratic_equation.py

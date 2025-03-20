@@ -17,45 +17,45 @@ Throughout the semester, I implemented various algorithms, games, and data proce
 
 ---
 
-## 📚 About the Course
+## About the Course
 
-- 📍 Institution: **Hebrew University of Jerusalem**  
-- 🖥️ Language: **Python 3**  
-- ⏳ Duration: **13 Weeks**  
-- 📝 Submissions: **9 Exercises + Labs + [Final Project](https://github.com/AfekAharoni/TextAnalyzer)**  
-- 🚀 Focus: Algorithms, Recursion, Object-Oriented Programming, Data Processing, Games, and more.
+- Institution: **Hebrew University of Jerusalem**  
+- Language: **Python 3**  
+- Duration: **13 Weeks**  
+- Submissions: **9 Exercises + Labs + [Final Project](https://github.com/AfekAharoni/TextAnalyzer)**  
+- Focus: Algorithms, Recursion, Object-Oriented Programming, Data Processing, Games, and more.
 
 ---
 
 ## Exercises
 
-| Exercise | Title                           | Description                                                 |
-|:--------:|:--------------------------------|:------------------------------------------------------------|
-| **1**    | [Hello Turtle](./Ex1-HelloTurtle)             | Drawing with Python's Turtle library.                      |
-| **2**    | [Conditions](./Ex2-Conditions)               | Basic Python conditions and problem solving.               |
-| **3**    | [Loops](./Ex3-Loops)                        | Loops, sequences, and user input in Python.                |
-| **4**    | [Battleship](./Ex4-Battleship)              | Implementation of the classic Battleship game.             |
-| **5**    | [Files - Word Search](./Ex5-Files)          | Word search puzzle solver using files and directions.      |
-| **6**    | [Image Processing](./Ex6-ImgProcessing)     | Image manipulation: grayscale, blur, edge detection.       |
-| **7**    | [Recursion](./Ex7-Recursion)                | Recursion algorithms, including Tower of Hanoi.            |
-| **8**    | [NumPy & Game of Life](./Ex8-NumPy)         | Matrix operations with NumPy and Conway’s Game of Life.    |
-| **9**    | [OOP - Rush Hour](./Ex9-ObjectOrientedProgram) | Rush Hour puzzle using Object-Oriented Programming.        |
-| **Lab 4**| [Nim Game](./Lab4)                          | A two-player Nim game with terminal interface.             |
+| Exercise | Title                           | Description                                                 | Grade |
+|:--------:|:--------------------------------|:------------------------------------------------------------|:-----:|
+| **1**    | [Hello Turtle](./Ex1-HelloTurtle)             | Drawing with Python's Turtle library.                      | 100   |
+| **2**    | [Conditions](./Ex2-Conditions)               | Basic Python conditions and problem solving.               | 100   |
+| **3**    | [Loops](./Ex3-Loops)                        | Loops, sequences, and user input in Python.                | 100   |
+| **4**    | [Battleship](./Ex4-Battleship)              | Implementation of the classic Battleship game.             | 100   |
+| **5**    | [Files - Word Search](./Ex5-Files)          | Word search puzzle solver using files and directions.      | 98.07 |
+| **6**    | [Image Processing](./Ex6-ImgProcessing)     | Image manipulation: grayscale, blur, edge detection.       | 96.63 |
+| **7**    | [Recursion](./Ex7-Recursion)                | Recursion algorithms, including Tower of Hanoi.            | 98.5  |
+| **8**    | [NumPy & Game of Life](./Ex8-NumPy)         | Matrix operations with NumPy and Conway’s Game of Life.    | 100   |
+| **9**    | [OOP - Rush Hour](./Ex9-ObjectOrientedProgram) | Rush Hour puzzle using Object-Oriented Programming.        | 98    |
+| **Lab 4**| [Nim Game](./Lab4)                          | A two-player Nim game with terminal interface.             | 100   |
 
 ---
 
-## 🚀 Highlights
+## Highlights
 
-- ✅ Clean, modular code following best practices.
-- ✅ Projects demonstrate key concepts: recursion, OOP, file handling, and more.
-- ✅ Interactive games implemented from scratch.
-- ✅ Matrix operations both natively and with NumPy.
+- Clean, modular code following best practices.  
+- Projects demonstrate key concepts: recursion, OOP, file handling, and more.  
+- Interactive games implemented from scratch.  
+- Matrix operations both natively and with NumPy.
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
-- [Hebrew University CS](https://www.cs.huji.ac.il/he/)
+- [Hebrew University CS](https://www.cs.huji.ac.il/he/)  
 - [Final Project - Text Analyzer](https://github.com/AfekAharoni/TextAnalyzer)
 
 ---
